@@ -1,0 +1,24 @@
+.main{
+    background: url(../assets/Group.png) no-repeat;
+    height: 91.5vh;
+    background-color:#282D35;
+    background-position: right center;
+    
+
+}
+.content{
+    position: relative;
+    top:18%;
+    margin-left: 20%;
+    color: #fff;
+}
+.content h1{
+    margin: 0;
+    font-size: 3.75em;
+}
+.content ul{
+    font-size: 1.25rem;
+}
+.content ul li{
+    padding: 15px;
+}

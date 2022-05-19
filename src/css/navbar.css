@@ -1,0 +1,18 @@
+.nav-left{
+    display: flex;
+    gap: 6px;
+    align-items: center;
+}
+.nav-left h2{
+    color:#61DAFB;
+    
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #21222A;
+}
+.nav h3{
+    color: #DEEBF8;
+}
